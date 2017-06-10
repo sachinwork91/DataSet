@@ -1,0 +1,2 @@
+# DataSet
+This is a Collection of Short Videos, which will be used to train a model for helping visually impaired people.
